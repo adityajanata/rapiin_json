@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "message": "Update!",
-  "changelog": "Update logic, biar bisa baca escape trus hasilnya bisa nested JSON"
+  "changelog": "Update logic, biar gak ngerubah angka gede jadi 2e+xx"
 }
