@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "message": "Update!",
-  "changelog": "Update logic, biar gak ngerubah angka gede jadi 2e+xx"
+  "changelog": "Update logging"
 }
